@@ -1,0 +1,23 @@
+[
+ {
+  "product_name": "Tenis X",
+  "price": 220,
+  "city": "Campinas",
+  "listing_date": "2025-01-22",
+  "source": "OLX"
+ },
+ {
+  "product_name": "Tenis X",
+  "price": 200,
+  "city": "Campinas",
+  "listing_date": "2025-01-23",
+  "source": "Facebook Marketplace"
+ },
+ {
+  "product_name": "Tenis X",
+  "price": 210,
+  "city": "Campinas",
+  "listing_date": "2025-01-25",
+  "source": "Mercado Livre"
+ }
+]
